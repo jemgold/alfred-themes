@@ -4,8 +4,8 @@ My themes for Alfred.app
 
 ** You'll need the powerpack license to install this **
 
-![Orange](https://raw.github.com/jongd/jgold-alfred-themes/master/orange/preview.png)
-![Green](https://raw.github.com/jongd/jgold-alfred-themes/master/green/preview.png)
+![Orange](https://raw.github.com/jongd/alfred-themes/master/orange/preview.png)
+![Green](https://raw.github.com/jongd/alfred-themes/master/green/preview.png)
 
 ### To install:
 
